@@ -1,0 +1,22 @@
+Reminder
+"""""""""""""""
+F1  
+F2  
+F3  Next ColorSheme
+F4  Toggle Mouse mode
+F5  
+F6   
+F7  AutoFormat
+F8  TagList 
+F9   
+F10  
+F11 Terminator fullscreen 
+F12 Display this screen 
+
+c-t Task list
+
+
+Emmet
+""""""""""""""""
+C-n C-, Expand abbrevation
+
