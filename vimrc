@@ -13,6 +13,9 @@ Plug 'https://github.com/vim-airline/vim-airline.git'
 " Autoformat
 Plug 'https://github.com/Chiel92/vim-autoformat'
 
+" Markdown
+Plug 'https://github.com/gabrielelana/vim-markdown.git'
+
 " Emmet : expanding abbreviations for html/css/xml/...
 Plug 'https://github.com/mattn/emmet-vim.git'
 
@@ -21,6 +24,9 @@ Plug 'https://github.com/vim-scripts/TaskList.vim.git'
 
 " Tag list
 Plug 'https://github.com/vim-scripts/taglist.vim.git'
+
+" Git
+Plug 'https://github.com/tpope/vim-fugitive.git'
 
 " Typescript syntax hightlight
 Plug 'https://github.com/leafgarland/typescript-vim.git'
